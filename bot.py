@@ -3,7 +3,7 @@ import random
 from telebot import types
 import webbrowser
 
-TOKEN = "8337208085:AAGeCWnQxPsL7ROFuPlHhZBtXAafCDRhTcU"
+TOKEN = "BOT_TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 # ПАМЯТЬ ПОЛЬЗОВАТЕЛЯ
